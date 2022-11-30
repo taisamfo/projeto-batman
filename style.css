@@ -1,0 +1,96 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Solway', serif;
+
+}
+
+.fundo{
+    background-image: linear-gradient(45deg,black,#0B0B0F);
+    height: 100vh;
+    
+    
+}
+
+.marvel {
+color:#C82818;
+font-weight:80%;
+text-align:center;
+
+
+}
+.home {
+    color: red;
+    font-size: 25px;
+    font-weight: 400;
+    cursor: pointer;
+    text-align:center;
+    
+   
+    
+}
+.paragrafo{
+    font-size: 18px;
+    color:#C82818;
+    word-spacing: none;
+}
+.elenco{
+    color:#C82818;
+    font-size: 15px;
+    word-spacing: none;
+}
+
+
+.home{
+    line-height: 1em;
+    word-spacing: 10px;
+}
+
+.inicio{
+    width: 900px;
+    height: 400px
+}
+
+.vermelho{
+    width:80% ;
+    height:550px;
+    
+}
+.trailer{
+    width: 95%;
+}
+
+}
+.os{
+width: 90%;
+
+
+}
+.morcego{
+    width: 90%;
+
+}
+
+.tres{
+    width: 95%;
+    height:600px;
+    border: #0B0B0F;
+}
+
+.dez{
+    width: 90%;
+    border: #0B0B0F;
+}
+   
+}
+.one{
+    height: 400px;
+    width: 700px;
+    border: #0B0B0F;
+
+}
+.nove{
+    
+    width: 90%;
+    border: #0B0B0F;
+}
